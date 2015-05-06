@@ -6,15 +6,16 @@
     </head>
     <body>
         <div class="menuBar">
-            <img class="menuItemLogo" src="images/icons/logo.png" />
-            <img class="menuItemHome" src="images/icons/home.png" />
-            <img class="menuItemProjects" src="images/icons/projects.png" />
-            <img class="menuItemHelp" src="images/icons/help.png" />
-            <img class="menuItemAbout" src="images/icons/about.png" />
-            <img class="menuItemGitHub" src="images/icons/github.png" />
+            <a href="index.php" class="menuItemLogo" />
+            <a href="index.php" class="menuItemHome" /></a>
+            <a href="projects.php" class="menuItemProjects" /></a>
+            <a href="help.php" class="menuItemHelp" /></a>
+            <a href="about.php" class="menuItemAbout" /></a>
+            <a href="http://www.github.com/hbod8" class="menuItemGitHub" /></a>
         </div>
         <div class="content">
-            
+            <h2>Quick Guide</h2>
+            <p>Harry.technology is a webpage that is built of the distribution of Harry Saliba's projects.  The projects are either hosted on here on the site or on GitHub.  This webpage is even a git hub project that you can see <a href="http://www.github.com/hbod8/harry.technology">here</a>.</p>
         </div>
     </body>
 </html>

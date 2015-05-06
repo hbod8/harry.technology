@@ -7,4 +7,5 @@ $(document).ready(function() {
         $(this).fadeTo("fast", 1);
         console.log("faded in");
     });
+    
 });
