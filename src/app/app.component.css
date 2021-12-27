@@ -7,15 +7,3 @@
 .bigger {
   font-size: 2rem;
 }
-@media (min-width: 1200px) {
-  .resume-card {
-    max-width: 50%;
-    padding: 1em;
-  }
-  .resume-card-container {
-    max-height: 110vh;
-  }
-  .interest-card-container {
-    max-height: 80vh;
-  }
-}
